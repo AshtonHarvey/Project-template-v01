@@ -1,5 +1,4 @@
 # Project-template-v01
-Created with CodeSandbox
 
 A template project for quick starts
 
